@@ -1,0 +1,2 @@
+Estos son los archivos STL necesarios para armar el prototipo funcional.
+Cuentan con un total de 3 archivos
